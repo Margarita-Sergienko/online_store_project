@@ -1,0 +1,9 @@
+db.sqlite3
+.idea/
+*.pyc
+media
+static
+.DS_Store
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
